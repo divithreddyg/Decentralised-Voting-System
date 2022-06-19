@@ -26,8 +26,10 @@ attacks from malicious parties.
 ### Dependencies
 
 Node Package Manager (NPM)- This is the first dependency needed which comes with Node.js.
+
 Truffle- A framework that allows us to create centralized applications on the Ethereum network. Gives us a suite of tools that allow us to write smart contracts on Solidity. It allows provides a framework for testing our smart contracts and deploying them on the blockchain. We will be using the Pet Shop Box here, which includes the basic project
 structure along with the code.
+
 Ganache- A local end-memory blockchain. Starts running a local blockchain on the machine. In the project, it starts with ten accounts. Each account represents the voters in the election and have a unique address. The accounts have been credited with 100.00 ETH.
 
 ### Running the project
